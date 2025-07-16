@@ -20,7 +20,7 @@ Hello and welcome! 👋 This portfolio showcases my work and projects in the dat
 
 | Project Link         | Tools               | Area                           | Project Description                                                                                           |
 |----------------------|---------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 🎯 [Target Case Study](#) | BigQuery, PowerBI    | SQL, Data Analysis & Data Visualisation | Exploring e-commerce trends and customer behavior through an in-depth study of the e-commerce market in Brazil. |
+| 🎯 [Target Case Study](https://github.com/KunapaneniSravani/Target_SQL) | BigQuery, PowerBI    | SQL, Data Analysis & Data Visualisation | Exploring e-commerce trends and customer behavior through an in-depth study of the e-commerce market in Brazil. |
 
 
 
