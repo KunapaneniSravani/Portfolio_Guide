@@ -21,10 +21,6 @@ Hello and welcome! 👋 This portfolio showcases my work and projects in the dat
 |----------------------|---------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
 | 🎯 [Target Case Study](#) | BigQuery, PowerBI    | SQL, Data Analysis & Data Visualisation | Exploring e-commerce trends and customer behavior through an in-depth study of the e-commerce market in Brazil. |
 
-## Tableau
 
-| Project Link             | Tools                | Area                          | Project Description                                                                                                       |
-|--------------------------|----------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 🦄 [Unicorn Analysis](#)  | Python, Tableau      | Data Wrangling & Data Visualisation | Cleaned and transformed data on privately-owned companies (startups) valued at over $1 billion using Python. Visualized key insights with Tableau to create a concise one-page dashboard. |
 
 
