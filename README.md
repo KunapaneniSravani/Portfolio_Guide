@@ -20,8 +20,13 @@ Hello and welcome! 👋 This portfolio showcases my work and projects in the dat
 
 | Project Link         | Tools               | Area                           | Project Description                                                                                           |
 |----------------------|---------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 🎯 [Target Case Study](https://github.com/KunapaneniSravani/Target_SQL) | BigQuery, PowerBI    | SQL, Data Analysis & Data Visualisation | Exploring e-commerce trends and customer behavior through an in-depth study of the e-commerce market in Brazil. |
+| 🎯 [Target SQL](https://github.com/KunapaneniSravani/Target_SQL) | BigQuery, PowerBI    | SQL, Data Analysis & Data Visualisation | Exploring e-commerce trends and customer behavior through an in-depth study of the e-commerce market in Brazil. |
 
+## Tableau
+
+| Project Link         | Tools               | Area                           | Project Description                                                                                           |
+|----------------------|---------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 🎬 [Netflix Dashboard](https://public.tableau.com/views/Netflix_17718659910180/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau | Data Visualization, EDA | Developed an interactive Tableau dashboard analyzing Netflix movies and TV shows data, highlighting trends by genre, country, release year, ratings, and content distribution for actionable insights. |
 
 
 
